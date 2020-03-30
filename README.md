@@ -1,3 +1,3 @@
-# Budget-Planner-
+# Budget-Me-
 The budget planner helps the user budget their monthly income. The user can make an educated guess whether they are spending over their limit. They can also rank their most-needed items in that month and it eventually tells them whether they should buy an item or not. Based on the ranking, the planner  prioritizes the item using the EisenHower's Matrix Urgent\Important matrix. This is a value proposition this budget planner has because as soon as you rank the importance and urgence level of the items you want to buy, it gives you a list you should buy in order, which helps indecisive people like me. If the item is over your expected budget for the month, then it is also eliminated immediately. After the user enteres the items that they have bought that month, it gives the remaining balance and tell them whether they spent over their limit in that month.
 
